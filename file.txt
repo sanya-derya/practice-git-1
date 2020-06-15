@@ -1,2 +1,4 @@
 My firts line in project
 Paris is the capital of France
+Change to be commited
+Changes not  staged for commit
